@@ -95,6 +95,12 @@ body {
 .apresentacao__links__link:hover{
     padding: 5%;
 }
+.att {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+}
 .imagem{
     border: 25px double var(--cor-3);
     width: 40%;
